@@ -1,0 +1,17 @@
+table {
+	font-family: 'Noto Serif JP', serif;
+	font-size: 14px;
+	margin: 40px auto;
+}
+th,td {
+	padding: 14px;
+	font-weight: normal;
+	text-align: left;
+	border-bottom: 1px solid #646566;
+}
+td span {
+	font-size: 90%;
+}
+
+
+

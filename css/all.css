@@ -16,3 +16,8 @@ th {
   background-color: #f2f2f2; /* ヘッダーの背景色を設定 */
   text-align: left; /* ヘッダーのテキストを左寄せに設定 */
 }
+
+.item_field {
+  border:solid 0.5px black;
+  background: blanchedalmond;
+}

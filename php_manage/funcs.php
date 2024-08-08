@@ -7,7 +7,7 @@ function h($str){
 //DB接続
 function db_conn(){
   try {
-      $db_name = "H_db";    //データベース名
+      $db_name = "mng_db";    //データベース名
       // $db_name = "gs_db4";    //データベース名
       $db_id   = "root";      //アカウント名
       $db_pw   = "";      //パスワード：XAMPPはパスワード無しに修正してください。
